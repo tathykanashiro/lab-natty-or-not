@@ -12,9 +12,6 @@ Ela é bem intuitiva.
 
 meu prompt foi: "Create a image showing a gamer girl, with long purple hair, brown eyes, using headphones and black shirt"
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
 ## 💭 Reflexão (Opcional)
 
 Esse tipo de IA realmente começara a afetar como enchergamos a internet. 
